@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Kata OsLab
 
-You can use the [editor on GitHub](https://github.com/Oslab-Kata/doc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Practice exercising!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Kata's on Symfony
+* [Learn how to create a simple contact form with handler.](https://github.com/Oslab-Kata/symfony-simple-contact-form)
+* [Learn how to create a data transformer with form type](https://github.com/Oslab-Kata/symfony-form-datatransformer)
+* [Learn how to create fixtures with Doctrine](https://github.com/Oslab-Kata/symfony-doctrine-fixture)
+* [Learn how to create entities with Doctrine](https://github.com/Oslab-Kata/symfony-doctrine)
+* [Learn how to create relationships with Doctrine](https://github.com/Oslab-Kata/symfony-doctrine-relationships)
+* [Learn how to use the compilers on Symfony, exploit the paternal design of the chain of responsibility.](https://github.com/Oslab-Kata/symfony-compiler-passes)
+* [Learn how to create a simple api.](https://github.com/Oslab-Kata/symfony-simple-api)
+* [Learn how to create a simple service.](https://github.com/Oslab-Kata/symfony-service-container)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Oslab-Kata/doc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Kata's on Docker
+* [Learn how to create a simple stack (Database + DB Admin tool + Applicative Server) with docker-compose file.](https://github.com/Oslab-Kata/docker-front-end)
